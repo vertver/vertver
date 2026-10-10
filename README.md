@@ -1,15 +1,15 @@
 ## Welcome
 
 [character by Andy4Land](https://andyl4nd.itch.io/)
-![dust](https://raw.githubusercontent.com/vertver/vertver/refs/heads/0_dust.png)
+![dust](https://raw.githubusercontent.com/vertver/vertver/refs/heads/main/0_dust.png)
 
 Hello there. I'm Anthony. I mostly do shaders and engine development for almost 10 years.
 
 ## My work
 
 I do a lot of stuff, but most of it is private. However, I'm really proud of my own NTSC Filter: 
-![faithful_ntsc](https://raw.githubusercontent.com/vertver/vertver/refs/heads/2179850_20260912001419_1.png)
-![faithful_ntsc](https://raw.githubusercontent.com/vertver/vertver/refs/heads/4131730_20260913000444_1.png)
+![faithful_ntsc](https://raw.githubusercontent.com/vertver/vertver/refs/heads/main/2179850_20260912001419_1.png)
+![faithful_ntsc](https://raw.githubusercontent.com/vertver/vertver/refs/heads/main/4131730_20260913000444_1.png)
 
 ## NO AI SLOP HERE
 
