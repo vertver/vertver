@@ -22,4 +22,4 @@ You trade your knowledge, competence, skills for nothing. If you want to become 
 
 The only acceptable way of using AI (LLMs specifically, AI-generated images/videos/texts are just a piece of shit and should be rejected in any way) is pattern matching (since LLMs are basically statistical models which may predict chances). [NFS MW decomp](https://github.com/dbalatoni13/nfsmw#say-no-to-slop) is a good way to use this technology.
 
-I also should state that I may change my opinion about that in the future since I'm still skeptical about everything I say.
+I should state that I may change my opinion about that in the future since I'm still skeptical about everything I say.
