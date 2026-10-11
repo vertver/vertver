@@ -22,6 +22,4 @@ I tried using LLMs before, and it felt good at first, but then it just consumes 
 Instead of spending time on research, developing things, designing, prototyping, you spend time on things that you don't care and you make things worthless by that.
 You trade your knowledge, competence, skills for nothing. If you want to become a professional - learn by yourself.
 
-The only acceptable way of using AI (LLMs specifically, AI-generated images/videos/texts are just a piece of shit and should be rejected in any way) is pattern matching (since LLMs are basically statistical models which may predict chances). [NFS MW decomp](https://github.com/dbalatoni13/nfsmw#say-no-to-slop) is acceptable way to use this technology.
-
-I should state that I may change my opinion about that in the future since I'm still skeptical about everything I say.
+The only acceptable way of using AI (LLMs specifically, AI-generated images/videos/texts are just a piece of shit and should be rejected in any way) is pattern matching (since LLMs are basically statistical models which may predict chances). [NFS MW decomp](https://github.com/dbalatoni13/nfsmw#say-no-to-slop) is acceptable way to use this technology (I should state that I may change my opinion about that in the future since I'm still skeptical about everything I say).
