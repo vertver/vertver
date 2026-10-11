@@ -1,6 +1,6 @@
 ## Welcome
 
-[character by Andy4Land](https://andyl4nd.itch.io/)
+[character by AndyL4nd](https://andyl4nd.itch.io/)
 
 ![dust](https://raw.githubusercontent.com/vertver/vertver/refs/heads/main/0_dust.png)
 
