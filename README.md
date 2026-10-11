@@ -9,8 +9,8 @@ Hello there. I'm Anthony. I mostly do shaders and engine development for almost 
 ## My work
 
 I do a lot of stuff, but most of it is private. However, I'm really proud of my own NTSC Filter: 
-![faithful_ntsc](https://raw.githubusercontent.com/vertver/vertver/refs/heads/main/2179850_20260912001419_1.png)
-![faithful_ntsc](https://raw.githubusercontent.com/vertver/vertver/refs/heads/main/4131730_20260913000444_1.png)
+![faithful_ntsc](https://raw.githubusercontent.com/vertver/vertver/refs/heads/main/ntsc_comparsion.png)
+![faithful_ntsc](https://raw.githubusercontent.com/vertver/vertver/refs/heads/main/backrooms.png)
 
 ## NO AI SLOP HERE
 
